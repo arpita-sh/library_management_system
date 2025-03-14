@@ -1,0 +1,11 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "request": "launch",
+            "mainClass": "LibraryManagementUI",
+            "vmArgs": "--module-path \"C:\\Users\\arpit\\Desktop\\javafx-sdk-23.0.2\\lib\" --add-modules javafx.controls,javafx.fxml"
+        }
+    ]
+}
